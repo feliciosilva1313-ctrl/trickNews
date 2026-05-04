@@ -32,7 +32,7 @@ body{
 }
 
 .box{
-    background:#6a0dad; /* roxo */
+    background:#e2e044; /* roxo */
     border-radius:4px;
     padding:25px;
     margin-bottom:20px;
@@ -41,12 +41,12 @@ body{
 
 .box h3{
     font-size:22px;
-    color:white;
+    color:rgb(0, 0, 0);
     margin-bottom:20px;
 }
 
 .box p{
-    color:white;
+    color:rgb(0, 0, 0);
     line-height:1.8;
     font-size:22px;
 }
@@ -54,7 +54,7 @@ body{
 /* principal */
 .conteudo{
     flex:1;
-    background:#6a0dad; /* roxo */
+    background: #e2e044; /* roxo */
     border-radius:4px;
     overflow:hidden;
     box-shadow:0 2px 8px rgba(0,0,0,0.2);
@@ -80,26 +80,26 @@ body{
 .topo h1{
     font-size:42px;
     font-weight:300;
-    color:white;
+    color:rgb(0, 0, 0);
 }
 
 .topo span{
     background:#16a8e8;
-    color:white;
+    color:rgb(0, 0, 0);
     padding:8px 18px;
     border-radius:30px;
     font-size:20px;
 }
 
 .texto h4{
-    color:white;
+    color:rgb(0, 0, 0);
     margin-bottom:25px;
     font-size:24px;
     font-weight:400;
 }
 
 .texto p{
-    color:white;
+    color:rgb(5, 5, 5);
     line-height:1.8;
     font-size:24px;
     margin-bottom:15px;
@@ -149,8 +149,8 @@ body{
     left:10px;
     display:inline-block;
     padding:10px 20px;
-    background:#a019a5;
-    color:white;
+    background:#e2e044;
+    color:rgb(0, 0, 0);
     text-decoration:none;
     border-radius:25px;
     font-size:18px;
