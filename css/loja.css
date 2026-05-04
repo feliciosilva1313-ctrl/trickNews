@@ -6,7 +6,7 @@
 }
 
 body {
-  background: linear-gradient(180deg, #000000, #1a1a1a);
+    background: linear-gradient(180deg, #8d207e, #3a0ca3);
   color: white;
 }
 
@@ -14,7 +14,7 @@ body {
 .header {
   text-align: center;
   padding: 20px;
-  background: #111;
+  background: #7e2581;
   border-bottom: 2px solid #7e2581;
 }
 
@@ -86,10 +86,15 @@ button:hover {
   background: #7e2581;
   color: white;
 }
-.voltar{
+.btn:hover {
+    background: #811b81;
+}
+
+.btn-voltar {
     display: inline-block;
     margin: 20px;
     padding: 10px 15px;
+    background-color: #b329b3   ;
     color: white;
     text-decoration: none;
     border-radius: 6px;
@@ -98,4 +103,4 @@ button:hover {
     position: absolute;
     top: 50px;
     left: 50px;
-    }
+}
