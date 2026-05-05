@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(180deg, #8d207e, #3a0ca3);
+    background-color: black;
     background-repeat: no-repeat;
     min-height: 100vh;
     padding: 30px;
@@ -38,7 +38,7 @@ h1 {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr 1fr;
     font-size: 12px;
-    color: gray;
+    color: black;
     margin-bottom: 20px;
 }
 
@@ -120,7 +120,7 @@ h1 {
 .btn {
     width: 100%;
     padding: 12px;
-    background: #b329b3;
+    background: #e0dd2d;
     border: none;
     color: white;
     font-weight: bold;
@@ -129,15 +129,15 @@ h1 {
 }
 
 .btn:hover {
-    background: #811b81;
+    background: #e0dd2d;
 }
 
 .btn-voltar {
     display: inline-block;
     margin: 20px;
     padding: 10px 15px;
-    background-color: #b329b3   ;
-    color: white;
+    background-color: black;
+    color: #e0dd2d;
     text-decoration: none;
     border-radius: 6px;
     font-weight: bold;

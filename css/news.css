@@ -34,8 +34,8 @@ body {
 
 /* CARD */
 .card {
-  background: #e0dd2d;
-  color: rgb(0, 0, 0);
+  background: #e8e66a;
+  color: white;
   padding: 15px;
   border-radius: 12px;
   text-align: center;
@@ -83,18 +83,18 @@ button {
 }
 
 button:hover {
-  background: #e0dd2d;
-  color: rgb(12, 12, 12);
+  background: #7e2581;
+  color: white;
 }
 .btn:hover {
-    background: #e0dd2d;
+    background: #811b81;
 }
 
 .btn-voltar {
     display: inline-block;
     margin: 20px;
     padding: 10px 15px;
-    background-color: #e0dd2d ;
+    background-color: #e8e66a;
     color: black;
     text-decoration: none;
     border-radius: 6px;

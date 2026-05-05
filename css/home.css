@@ -94,10 +94,10 @@ body {
   border-radius: 12px;
   overflow: hidden;
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: rgb(10, 10, 10);
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
   transition: 0.3s;
-  background-color: #e8e66a;
+  background-color: #e0dd2d;
 }
 
 .card:hover {
