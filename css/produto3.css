@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(180deg, #8d207e, #3a0ca3);
+    background-color: #e2e044;
     background-repeat: no-repeat;
     min-height: 100vh;
     padding: 30px;
@@ -120,7 +120,7 @@ h1 {
 .btn {
     width: 100%;
     padding: 12px;
-    background: #b329b3;
+    background: #e2e044;
     border: none;
     color: white;
     font-weight: bold;
@@ -136,7 +136,7 @@ h1 {
     display: inline-block;
     margin: 20px;
     padding: 10px 15px;
-    background-color: #b329b3   ;
+    background-color: #000000   ;
     color: white;
     text-decoration: none;
     border-radius: 6px;
