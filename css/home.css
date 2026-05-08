@@ -36,12 +36,12 @@ body {
 }
 
 .nav-links a {
-  color: #e8e66a;
+  color: #e6b720;
   font-weight: 600;
 }
 
 .nav-links a:hover {
-  color: #3498db;
+  color: white;
 }
 
 /* SEARCH */
@@ -58,7 +58,7 @@ body {
 
 .search-container button {
   padding: 8px 12px;
-  background: #e0dd2d;
+  background: #e6b720;
   color: white;
   border: none;
   border-radius: 0 5px 5px 0;
@@ -78,7 +78,7 @@ body {
 
 .content-section h2 {
   margin-bottom: 20px;
-  border-left: 5px solid #3498db;
+  border-left: 5px solid #e6b720;
   padding-left: 10px;
   color: white;
 }
