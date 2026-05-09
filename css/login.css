@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(135deg, #8d207e, #3a0ca3);
+    background-color: black;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -15,7 +15,7 @@ body {
 
 /* Caixa principal */
 .caixa {
-    background: white;
+    background: #e0dd2d;
     padding: 35px;
     border-radius: 12px;
     width: 350px;
@@ -26,7 +26,7 @@ body {
 .title {
     text-align: center;
     margin-bottom: 25px;
-    color: #3a0ca3;
+    color: black;
 }
 
 /* Inputs */
@@ -51,7 +51,7 @@ body {
 }
 
 .grupo-input input:focus {
-    border-color: #8d207e;
+    border-color: #ccc;
     box-shadow: 0 0 5px rgba(141, 32, 126, 0.3);
 }
 
@@ -59,10 +59,10 @@ body {
 .botaoprimario {
     width: 90%;
     padding: 12px;
-    background: linear-gradient(180deg, #8d207e, #3a0ca3);
+    background-color: #e0dd2d;
     border: none;
     border-radius: 8px;
-    color: white;
+    color: black;
     font-size: 16px;
     cursor: pointer;
     transition: 0.3s;
@@ -71,6 +71,22 @@ body {
 .botaoprimario:hover {
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+
+}
+.bntvoltar a
+ {
+    cursor: pointer;
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: black;
+    text-decoration: none;
+    color:#e0dd2d ;
+    border-radius: 14px;
+    transition: 0.3s;
+    position: absolute;
+    top: 50px;
+    left: 50px;
 }
 
 /* Responsivo */
